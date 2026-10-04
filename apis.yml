@@ -39,7 +39,6 @@ apis:
   - name: IMDbOT
     description: "Unofficial IMDb Movie / Series Information"
     humanURL: https://github.com/SpEcHiDe/IMDbOT
-    baseURL: https://github.com/SpEcHiDe/IMDbOT
     tags:
       - Video
     properties:
